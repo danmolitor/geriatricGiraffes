@@ -1,6 +1,6 @@
-# Project Name
+# HackOverflow
 
-> Pithy project description
+> A question board designed for students in a face-paced learning environment. 
 
 ## Team
 
